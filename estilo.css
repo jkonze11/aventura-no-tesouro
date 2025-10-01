@@ -3,5 +3,15 @@ body{
 color: aliceblue;
 text-align: center;
 margin: 100px 0;
-
+font-size: 20px; 
 }
+
+
+main {
+  max-width: 90%;
+}
+button{
+  background-color: blue;
+color: white;
+padding: 10px;
+} 
